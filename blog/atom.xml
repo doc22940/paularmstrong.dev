@@ -10,8 +10,8 @@
     <rights>Copyright © 2020 Paul Armstrong. Built with Docusaurus.</rights>
     <entry>
         <title type="html"><![CDATA[First post, not an April Fool's joke]]></title>
-        <id>first-post</id>
-        <link href="https://paularmstrong.dev/blog/first-post"/>
+        <id>First post, not an April Fool's joke</id>
+        <link href="https://paularmstrong.dev/blog/2020/03/31/first-post"/>
         <updated>2020-03-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[It's about that time again. I'm actually creating a personal site after deleting the one I had from about 2004 through 2015. I got tired of maintaining the framework that I kept building my site in. It became more of a chore maintaining the code than adding fresh content. So here we are. New site! Who dis?]]></summary>
     </entry>
