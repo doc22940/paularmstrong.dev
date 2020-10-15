@@ -9,11 +9,11 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Paul Armstrong. Built with Docusaurus.</copyright>
         <item>
-            <title><![CDATA[First post, not an April Fool's joke]]></title>
-            <link>https://paularmstrong.dev/blog/2020/03/31/first-post</link>
-            <guid>First post, not an April Fool's joke</guid>
+            <title><![CDATA[First post playground]]></title>
+            <link>https://paularmstrong.dev/blog/first-post</link>
+            <guid>first-post</guid>
             <pubDate>Tue, 31 Mar 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[It's about that time again. I'm actually creating a personal site after deleting the one I had from about 2004 through 2015. I got tired of maintaining the framework that I kept building my site in. It became more of a chore maintaining the code than adding fresh content. So here we are. New site! Who dis?]]></description>
+            <description><![CDATA[I like tacos 🌮]]></description>
         </item>
     </channel>
 </rss>
