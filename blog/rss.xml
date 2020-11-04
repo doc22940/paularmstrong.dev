@@ -4,10 +4,17 @@
         <title>Paul Armstrong Blog</title>
         <link>https://paularmstrong.dev/blog</link>
         <description>Paul Armstrong Blog</description>
-        <lastBuildDate>Tue, 31 Mar 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Paul Armstrong. Built with Docusaurus.</copyright>
+        <item>
+            <title><![CDATA[Goodbye Apple Magic Mouse]]></title>
+            <link>https://paularmstrong.dev/blog/computer-mouse</link>
+            <guid>computer-mouse</guid>
+            <pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[I absolutely love the multi-touch surface of the Apple Magic Mouse 2. It's easy, it's intuitive, and it's natural. Unfortunately, the mouse is wildly non-ergonomic. Almost just as importantly, the battery seems to die, without fail, an hour into my work-day. In order to get any work done, I need a backup $79 Apple Magic Mouse 2.]]></description>
+        </item>
         <item>
             <title><![CDATA[First post playground]]></title>
             <link>https://paularmstrong.dev/blog/first-post</link>
