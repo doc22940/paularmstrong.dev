@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://paularmstrong.dev/blog</id>
     <title>Paul Armstrong Blog</title>
-    <updated>2020-11-01T00:00:00.000Z</updated>
+    <updated>2020-11-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://paularmstrong.dev/blog"/>
     <subtitle>Paul Armstrong Blog</subtitle>
@@ -12,7 +12,7 @@
         <title type="html"><![CDATA[Goodbye Apple Magic Mouse]]></title>
         <id>computer-mouse</id>
         <link href="https://paularmstrong.dev/blog/computer-mouse"/>
-        <updated>2020-11-01T00:00:00.000Z</updated>
+        <updated>2020-11-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I absolutely love the multi-touch surface of the Apple Magic Mouse 2. It's easy, it's intuitive, and it's natural. Unfortunately, the mouse is wildly non-ergonomic. Almost just as importantly, the battery seems to die, without fail, an hour into my work-day. In order to get any work done, I need a backup $79 Apple Magic Mouse 2.]]></summary>
     </entry>
     <entry>

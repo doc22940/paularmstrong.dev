@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{53:function(a){a.exports=JSON.parse('{"smarthome":{"allTagsPath":"/blog/tags","slug":"smarthome","name":"smarthome","count":1,"permalink":"/blog/tags/smarthome"},"homeautomation":{"allTagsPath":"/blog/tags","slug":"homeautomation","name":"homeautomation","count":1,"permalink":"/blog/tags/homeautomation"}}')}}]);
