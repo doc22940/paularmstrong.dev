@@ -19,8 +19,8 @@ module.exports = {
       },
       items: [
         { to: 'blog', label: 'Blog', position: 'left' },
-        { to: 'pages/protips/index', label: 'ProTips', position: 'left' },
-        { to: 'pages/about', label: 'About', position: 'right' },
+        { to: '/pages/protips/index', label: 'ProTips', position: 'left' },
+        { to: '/pages/about', label: 'About', position: 'right' },
         {
           href: 'https://github.com/paularmstrong',
           label: 'GitHub',
@@ -72,6 +72,16 @@ module.exports = {
   },
   themes: ['@docusaurus/theme-live-codeblock'],
   plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'recipes',
+        path: 'recipes',
+        routeBasePath: 'recipes',
+        sidebarPath: require.resolve('./recipes/_sidebar.js'),
+        remarkPlugins: [require('@fec/remark-a11y-emoji')],
+      },
+    ],
     ['@docusaurus/plugin-ideal-image', { disable: false }],
     [
       '@docusaurus/plugin-pwa',

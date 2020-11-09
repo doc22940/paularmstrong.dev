@@ -27,7 +27,7 @@ function Home() {
             </Link>
             <Link
               className={classnames('button button--outline button--secondary button--lg', styles.button)}
-              to={useBaseUrl('pages/protips/index')}
+              to={useBaseUrl('/pages/protips/index')}
             >
               Learn some ProTips
             </Link>

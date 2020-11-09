@@ -17,6 +17,7 @@
     "@docusaurus/theme-live-codeblock": "^2.0.0-alpha.66",
     "@fec/remark-a11y-emoji": "^2.0.0",
     "classnames": "^2.2.6",
+    "num2fraction": "^1.2.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
