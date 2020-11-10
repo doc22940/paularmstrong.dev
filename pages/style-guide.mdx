@@ -4,6 +4,8 @@ title: Style Guide
 sidebar_label: Style Guide
 ---
 
+import Ingredients from '../components/Ingredients';
+
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax
@@ -148,9 +150,11 @@ Quote break.
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
 
+
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
 
 ---
 
@@ -185,3 +189,19 @@ Warning! You better pay attention!
 :::danger
 Danger danger, mayday!
 :::
+
+## Ingredients
+
+<Ingredients
+  defaultServings={1}
+  servingUnits="units"
+  ingredients={[
+    { value: 1, units: 'tsp', item: 'Teaspoons' },
+    { value: 1, units: 'tbsp', item: 'Tablespoons' },
+    { value: 1, units: 'cup', item: 'Cups' },
+    { value: 1, units: 'oz', item: 'Ounces' },
+    { value: 1, units: 'pint', item: 'Pints' },
+    { value: 1, units: 'quart', item: 'Quarts' },
+    { value: 1, units: 'gallon', item: 'Gallons' },
+  ]}
+/>
