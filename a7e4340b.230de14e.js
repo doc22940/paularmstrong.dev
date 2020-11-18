@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{54:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Goodbye Apple Magic Mouse","permalink":"/blog/computer-mouse"},{"title":"First post playground","permalink":"/blog/first-post"}]}')}}]);

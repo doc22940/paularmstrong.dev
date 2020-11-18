@@ -4,10 +4,17 @@
         <title>Paul Armstrong Blog</title>
         <link>https://paularmstrong.dev/blog</link>
         <description>Paul Armstrong Blog</description>
-        <lastBuildDate>Wed, 04 Nov 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Paul Armstrong. Built with Docusaurus.</copyright>
+        <item>
+            <title><![CDATA[Rubber Ducky Twitch Bot]]></title>
+            <link>https://paularmstrong.dev/blog/rubber-ducky-bot</link>
+            <guid>rubber-ducky-bot</guid>
+            <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's not easy trying to stream code development and sit around talking to yourself for hours on end. I keep finding myself needing a rubber duck to explain things to while no one is active in the chat.]]></description>
+        </item>
         <item>
             <title><![CDATA[Goodbye Apple Magic Mouse]]></title>
             <link>https://paularmstrong.dev/blog/computer-mouse</link>

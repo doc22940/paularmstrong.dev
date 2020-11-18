@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{38:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"homeautomation","name":"homeautomation","count":1,"permalink":"/blog/tags/homeautomation"}')}}]);
